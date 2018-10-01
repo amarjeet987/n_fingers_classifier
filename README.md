@@ -1,5 +1,5 @@
 # n_finger_classifier
-CNN model to classify the number of fingers in the image passed as input.
+CNN model made in tensorflow to classify the number of fingers in the image passed as input.
 
 ## Description :
 The network in a nutshell :
